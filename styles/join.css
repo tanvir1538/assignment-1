@@ -33,11 +33,11 @@
     font-weight: bold;
     color: #4E47FF; 
      font-family: "Inter", sans-serif;
-     gap
     
   }
+  
   .s-description {
     font-size:20px;
     color: rgba(0,0,0,50%);
-     font-family: "Inter", sans-serif;
+    font-family: "Inter", sans-serif;
 }

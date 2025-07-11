@@ -16,8 +16,8 @@
   font-style: normal;
 }
 .logo{
-    color: #4E47FF;
-    font-size: 34px;
+color: #4E47FF;
+font-size: 34px;
 position: static;
 width: 99px;
 height: 51px;
@@ -40,7 +40,7 @@ text-align: left;
      font-weight:bold ;
      padding:12px 36px;
      font: 16px;
-     border-radius: 5px;
+     border-radius: 10px;
     font-family: "Raleway", sans-serif;
 
      
