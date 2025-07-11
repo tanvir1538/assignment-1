@@ -29,8 +29,8 @@
 .action-tittle{
     display: flex;
     justify-content: center;
-    margin-top:120px ;
     gap: 220px;
+    padding-top: 85px;
     
 }
 
